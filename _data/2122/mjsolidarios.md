@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji 😈 y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Brien Mikael Aguirre, you can just call me Bri. 👏 I like playing games 🎮, listening to music 🎵, making graphic designs 🎨, and editing images and videos 🖥️. I am from Biga-a, Malinao, Aklan and I cannot fluently speak Hiligaynon yet 😅. I am currently 29 years old 🐋. I am also a big anime fan 👹.
 
 hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+> "Life is soup 🥣. I'm fork. - Anonymous".
